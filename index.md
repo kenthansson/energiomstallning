@@ -32,25 +32,3 @@ Energitillgången sätter i praktiken gränsen för både levnadsstandard och li
 
 ---
 
-## Källor och vidare läsning
-
-### Global energimix, fossilberoende och byggtakt
-* **Energy Institute – *Statistical Review of World Energy*** (årlig rapport): Visar att världens primärenergianvändning ligger runt 600–650 EJ/år och att fossila bränslen står för cirka 80–82 % av den globala energimixen.
-* **International Energy Agency (IEA) – *World Energy Outlook* & *Electricity Market Report***: Data över global elproduktion (~30 000 TWh/år) samt behov av kraftigt ökad elproduktion och utbyggnad av elnät vid elektrifiering.
-* **World Nuclear Association (WNA) – *World Nuclear Performance Report***: Statistik över global reaktorkapacitet och att den globala byggtakten legat på färre än tio färdigställda reaktorer per år under senare år.
-
-### Gruvor, metaller och materialflaskhalsar
-* **International Energy Agency (IEA) – *The Role of Critical Minerals in Clean Energy Transitions***: Kartlägger behovet av koppar, litium, nickel, kobolt och sällsynta jordartsmetaller samt konstaterar att ledtiden från upptäckt till produktion för en ny gruva i genomsnitt är över 16 år.
-* **Geological Survey of Finland (GTK) / Simon Michaux – *Assessment of the Extra Capacity Required of Alternative Energy Electrical Power Systems to Completely Replace Fossil Fuels***: Genomgång av de fysiska material- och metallmängder som krävs för att ersätta fossila bränslen globalt.
-
-### Systemkostnader, elpriskannibalisering och samhällets grundmaterial
-* **OECD Nuclear Energy Agency (NEA) – *The Costs of Decarbonisation: System Costs with High Shares of Nuclear and Renewables***: Visar hur systemkostnaderna för elnät, balansering, reservkraft och prispress stiger brant när andelen väderberoende el passerar 30–50 %.
-* **Vaclav Smil – *How the World Really Works* (2022)**: Genomgång av samhällets fyra materiella grundpelare (cement, stål, plast och ammoniak/konstgödsel) och varför dessa är svåra och energikrävande att frikoppla från fossila bränslen.
-
-### Konstgödsel, livsmedelsförsörjning och fattigdom
-* **Our World in Data / Hannah Ritchie – *How many people does synthetic fertilizer feed?*** (baserat på Erisman m.fl., *Nature Geoscience*): Visar att omkring hälften av världens befolkning (cirka 4 miljarder människor) är direkt beroende av syntetiskt kvävegödsel framställt via Haber-Bosch-processen.
-* **Världsbanken & FN:s livsmedelsprogram (WFP) – *Global Report on Food Crises***: Analyserar hur energiprischocker och dyrare konstgödsel direkt påverkar globala livsmedelspriser, akut hunger och extrem fattigdom i låginkomstländer.
-
-### Klimatmodellering, koldioxidens livslängd och temperaturmål
-* **FN:s klimatpanel (IPCC) – *Sixth Assessment Report (AR6), Working Group I & III***: Redovisar koldioxidens långa uppehållstid i atmosfären (uppvärmningen planar inte ut förrän vid netto noll) samt utsläppsbanor för 1,5 °C och 2,0 °C.
-* **Copernicus Climate Change Service (C3S) & World Meteorological Organization (WMO)**: Temperaturdata över den globala medeltemperaturens utveckling i relation till 1,5-gradersgränsen.
